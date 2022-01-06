@@ -1,2 +1,2 @@
 # MovieApp
-App que lista peliculas  
+App que lista películas para el Challenge de Mango
